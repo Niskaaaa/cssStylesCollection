@@ -1,6 +1,6 @@
 # style1
 
-![image-20200827013733770](.\preview.assets\image-20200827013733770.png)
+![image-20200827013733770](D:\git-repository\cssStylesCollection\shareButton\preview.assets\image-20200827013733770.png)
 
 ![image-20200826222514765](D:\git-repository\cssStylesCollection\shareButton\preview.assets\image-20200826222514765.png)
 
@@ -10,7 +10,7 @@
 
 # style2
 
-![image-20200827013804623](.\preview.assets\image-20200827013804623.png)
+![image-20200827013804623](D:\git-repository\cssStylesCollection\shareButton\preview.assets\image-20200827013804623.png)
 
 ![image-20200827013828153](D:\git-repository\cssStylesCollection\shareButton\preview.assets\image-20200827013828153.png)
 

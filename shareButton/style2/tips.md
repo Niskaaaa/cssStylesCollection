@@ -8,7 +8,7 @@ aria-hidden="true" 使得带有这个属性的控件对浏览器实现语义化�
 
 # CSS text-decoration 属性
 
-![image-20200826224938508](D:\git-repository\cssStylesCollection\shareButton\style2\tips.assets\image-20200826224938508.png)
+![image-20200826224938508](.\tips.assets\image-20200826224938508.png)
 
 
 
@@ -18,8 +18,8 @@ aria-hidden="true" 使得带有这个属性的控件对浏览器实现语义化�
 
 示例：
 
-![image-20200827014351728](D:\git-repository\cssStylesCollection\shareButton\style2\tips.assets\image-20200827014351728.png)
+![image-20200827014351728](.\tips.assets\image-20200827014351728.png)
 
 插入结果：
 
-![image-20200827014408290](D:\git-repository\cssStylesCollection\shareButton\style2\tips.assets\image-20200827014408290.png)
+![image-20200827014408290](.\tips.assets\image-20200827014408290.png)
